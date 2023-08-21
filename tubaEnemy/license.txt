@@ -1,0 +1,11 @@
+Model Information:
+* title:	Tuba Gunner, Guardian of Orchestria
+* source:	https://sketchfab.com/3d-models/tuba-gunner-guardian-of-orchestria-acff047a4aed49e29b6fb96f1b7f8428
+* author:	Harri3D (https://sketchfab.com/harrisondorn)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Tuba Gunner, Guardian of Orchestria" (https://sketchfab.com/3d-models/tuba-gunner-guardian-of-orchestria-acff047a4aed49e29b6fb96f1b7f8428) by Harri3D (https://sketchfab.com/harrisondorn) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
